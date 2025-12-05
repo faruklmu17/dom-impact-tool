@@ -1,0 +1,10 @@
+{
+    "test_login_button_visible": [
+      "[data-test='login-button']"
+    ],
+    "test_email_and_password_fields": [
+      "[data-test='email-input']",
+      "[data-test='password-input']"
+    ]
+  }
+  
